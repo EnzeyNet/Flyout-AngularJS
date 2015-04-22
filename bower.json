@@ -1,0 +1,31 @@
+{
+	"name": "Flyout-AngularJS",
+	"description": "Flyout-AngularJS",
+	"version": "0.0.1",
+	"homepage": "https://github.com/EnzeyNet/Flyout-AngularJS",
+	"bugs": "https://github.com/EnzeyNet/Flyout-AngularJS/issues",
+	"author": {
+		"name": "Joseph Aspelund",
+		"email": "enzey@enzey.net",
+		"url": "https://github.com/Xanir"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EnzeyNet/Flyout-AngularJS.git"
+	},
+	"keywords": [
+		"angular"
+	],
+	"main": "dist/Flyout-AngularJS.min.js",
+	"ignore": [
+		"**/*",
+		"!dist/*"
+	],
+	"dependencies": {
+		"nz-flyout-core": "0.0.x"
+	},
+	"devDependencies": {
+		"angular": "1.2.x",
+		"angular-mocks": "~1.2.x"
+	}
+}
